@@ -11,4 +11,4 @@ app:
       age: 89
   users:
     allowLogin: true
-    welcome: Welcome to our app
+    welcome: Welcome to our app [DEV]
