@@ -2,13 +2,9 @@ app:
   banks:
     bb:
       name: Banco do Brasil S.A.
-      age: 120
     bradesco:
       name: Bradesco S.A.
-      age: 57
     caixa:
       name: Caixa Economica S.A.
-      age: 89
   users:
-    allowLogin: false
     welcome: Welcome to our app
