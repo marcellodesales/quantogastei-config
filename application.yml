@@ -1,9 +1,10 @@
 settings:
   rabbitmq:
-    host: "http://localhost:36361"
+    host: "http://localhost:3355"
     username: "{cipher}1920192019909309203"
     password: "{cipher}20390293029302090293"
   mysql:
+    host: "http://localhost:3606"
     db: bankDb
     username: myusername
     password: "{cipher}20390293029302090293"
