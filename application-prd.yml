@@ -1,0 +1,10 @@
+settings:
+  rabbitmq:
+    host: "https://rabbitmq.qg.com"
+    username: "{cipher}dsiudidui121i2u1i2udksok"
+    password: "{cipher}1293843okoskdoskd121230"
+  mysql:
+    host: "https://mysql.qg.com"
+    db: bankDb
+    username: "{cipher}120093udoioidsm23omfo23"
+    password: "{cipher}siioisd89283iuer723ijd"
