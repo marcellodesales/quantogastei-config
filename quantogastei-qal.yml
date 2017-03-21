@@ -1,0 +1,7 @@
+app:
+  banks:
+    bb:
+      name: Banco do Brasil [TEST]
+  users:
+    allowLogin: false
+    welcome: Welcome to our app [TEST]
